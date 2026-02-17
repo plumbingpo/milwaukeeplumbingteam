@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://milwaukeeplumbingteam.com/sitemap.xml
